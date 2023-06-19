@@ -26,12 +26,12 @@ body {
     background-image: linear-gradient(to top, var(--grisClaro) 0%, var(--blanco) 100%);
 }
 
-.servicios,
+/*.servicios,
 .navegacion-principal,
 .formulario {
     scroll-snap-align: center;
     scroll-snap-stop: always;
-}
+}*/
 
 .contenedor {
     max-width: 120rem;
